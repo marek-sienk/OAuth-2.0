@@ -1,0 +1,64 @@
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\OAuth2onFB.dll.config
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\OAuth2onFB.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\OAuth2onFB.pdb
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\Antlr3.Runtime.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\Newtonsoft.Json.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Net.Http.Formatting.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Helpers.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.WebHost.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Mvc.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Optimization.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Razor.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\WebGrease.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\Newtonsoft.Json.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Net.Http.Formatting.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Helpers.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.WebHost.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Mvc.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Optimization.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.Razor.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\bin\Antlr3.Runtime.pdb
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\obj\Debug\OAuth2onFB.csprojResolveAssemblyReference.cache
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\obj\Debug\OAuth2onFB.dll
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\OAuth2onFB\OAuth2onFB\obj\Debug\OAuth2onFB.pdb
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\OAuth2onFB.dll.config
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\OAuth2onFB.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\OAuth2onFB.pdb
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\Antlr3.Runtime.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\Microsoft.Web.Infrastructure.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\Newtonsoft.Json.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Net.Http.Formatting.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Helpers.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.WebHost.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Mvc.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Optimization.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Razor.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Deployment.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Razor.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\WebGrease.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\Newtonsoft.Json.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Net.Http.Formatting.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Helpers.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Http.WebHost.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Mvc.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Optimization.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.Razor.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Deployment.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\System.Web.WebPages.Razor.xml
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\bin\Antlr3.Runtime.pdb
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\obj\Debug\OAuth2onFB.csprojResolveAssemblyReference.cache
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\obj\Debug\OAuth2onFB.dll
+D:\Marek\TiSBK\OAuth2onFB\OAuth2onFB\obj\Debug\OAuth2onFB.pdb
